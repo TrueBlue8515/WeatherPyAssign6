@@ -1,5 +1,5 @@
 3 Observable Trends from Weather Data
 
-1)  I can't figure out why I'm not getting any data for any of the cities, so it's difficult for me to determine any observable trends
-2)  See #1
-3)  See #1
+1)  The closer a city is to the equator (0 latitude) the warmer the temperature is likely to be.
+2)  It is easier to recognize trends in the relationship between Temperature and Latitude than it is Temperature and Cloudiness, Wind Speed or Humidity 
+3)  The difficulty in recognizing trends between Temperature and Cloudiness, Wind Speed and Humidity may have to do with the large sample size of cities around the globe
